@@ -8,6 +8,7 @@
 </h1>
 <img align="right" alt="webdev" height="200" width="400"src="https://media1.tenor.com/m/zzntm2_9B3gAAAAd/hacker.gif">
 <br>
+<br>
 <h3 align="center">💻 A Passionate Mern Stack Developer</h3>
     <br>
     <br>
