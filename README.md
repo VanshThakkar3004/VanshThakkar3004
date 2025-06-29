@@ -17,7 +17,7 @@
 - 🌱 Learning New Algorithms and DSA.
 - 👯 Open to collaborating on Hackathons & Full Stack Projects.
 - 🚀 Always learning & staying updated with industry trends.
--     Connect with me on vanshvthakkar@gmail.com
+- 📫 Connect with me on **vanshvthakkar@gmail.com**
 <br>
 
 ## 🔗 Connect with Me:
