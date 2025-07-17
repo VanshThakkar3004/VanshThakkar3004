@@ -61,9 +61,11 @@
 
 <div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshthakkar3004&show_icons=true&locale=en&layout=compact" alt="vanshthakkar3004" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshthakkar3004&show_icons=true&locale=en" alt="vanshthakkar3004" /></p>
-
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshThakkar3004&theme=ocean_dark" alt="vanshthakkar3004" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanshThakkar3004&theme=ocean_dark" alt="vanshthakkar3004" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VanshThakkar3004&theme=ocean_dark&utcOffset=8" alt="vanshthakkar3004" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VanshThakkar3004&theme=ocean_dark" alt="vanshthakkar3004" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VanshThakkar3004&theme=ocean_dark" alt="vanshthakkar3004" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshthakkar3004&" alt="vanshthakkar3004" /></p>
 
 
