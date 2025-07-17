@@ -65,15 +65,13 @@
 <h1 align="center">📊 My GitHub Stats</h1>
 
 <p align="center">
-       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshThakkar3004&theme=ocean_dark" alt="vanshthakkar3004" /></p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanshThakkar3004&theme=ocean_dark" 
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshThakkar3004&theme=ocean_dark" alt="vanshthakkar3004"/></p>
     <img 
         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VanshThakkar3004&theme=ocean_dark&utcOffset=8" alt="vanshthakkar3004" /></p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VanshThakkar3004&theme=ocean_dark">
     <img
         src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VanshThakkar3004&theme=ocean_dark">
-    <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=vanshthakkar3004&">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshthakkar3004&">
 </p>
 
 </p>
